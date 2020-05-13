@@ -65,6 +65,8 @@
 只修改了_sidebar.md 文件是不行滴，还需要在index.html文件中配置一下。在内嵌的js脚本中加上下面这句：
 
     loadSidebar: true
+	
+ps:markdown的常用语法和效果可以参考以下：https://www.cnblogs.com/wuxin123/p/12809257.html
 
  - 2.4.2.配置你的封面:
 
